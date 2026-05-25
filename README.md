@@ -1,49 +1,33 @@
-# 🚨 Financial Crime Intelligence Platform
+# Financial Crime Intelligence Platform
 
-## Overview
-
-The Financial Crime Intelligence Platform is an interactive fraud detection and AML analytics dashboard designed to simulate how financial institutions monitor suspicious transactions, investigate fraud cases, and generate executive-level intelligence reporting.
-
-This project combines:
-- Financial analytics
-- Fraud monitoring
-- AI risk scoring simulation
-- Executive reporting
-- Interactive dashboards
-- Investigation analytics
-
-The platform demonstrates how modern financial crime investigation systems can support operational monitoring, risk prioritization, and strategic decision-making.
+AI-powered financial crime detection and investigation platform built using Streamlit, Python, Plotly, and Pandas.
 
 ---
 
-#  Key Objectives
+# Platform Overview
 
-- Detect suspicious financial activity
-- Monitor fraud investigation pipelines
-- Analyze high-risk transactions
-- Simulate AI-driven risk scoring
-- Generate executive investigation insights
-- Improve operational visibility
+This platform provides:
+
+- Fraud investigation monitoring
+- AI risk scoring
+- Geographic transaction analysis
+- Executive investigation reporting
+- Suspicious activity tracking
+- Threat intelligence analytics
 
 ---
 
-# System Architecture
+# Technology Stack
 
-## Frontend
-Built using:
-- Streamlit
-- Plotly
 - Python
-
-Provides:
-- Interactive dashboards
-- Dynamic filters
-- Real-time analytics
-- Executive reporting
+- Streamlit
+- Pandas
+- Plotly
+- GitHub
 
 ---
 
-## Data Layer
+# Dataset
 
 The dataset contains:
 
@@ -57,7 +41,7 @@ The dataset contains:
 
 ---
 
-## Analytics Engine
+# Analytics Engine
 
 The analytics layer performs:
 
@@ -69,7 +53,7 @@ The analytics layer performs:
 
 ---
 
-# 🤖 AI Risk Scoring
+# AI Risk Scoring
 
 The platform includes a simulated AI Risk Score model.
 
@@ -78,3 +62,59 @@ The score dynamically evaluates:
 - Transaction severity
 - Investigation complexity
 - Suspicious transaction exposure
+
+---
+
+# Dashboard Pages
+
+- Main Dashboard
+- AI Threat Intelligence
+- Geographic Risk Analysis
+- Executive Investigation Report
+- Risk Analytics
+
+---
+
+# Dashboard Preview
+
+## Main Dashboard
+
+![Main Dashboard](screenshots/dashboard-home.png)
+
+---
+
+## AI Risk Analysis
+
+![AI Risk Analysis](screenshots/ai-risk-analysis.png)
+
+---
+
+## Executive Investigation Report
+
+![Executive Report](screenshots/executive-investigation-report.png)
+
+---
+
+## Geographic Risk Analysis
+
+![Geographic Analysis](screenshots/geographic-risk-analysis.png)
+
+---
+
+## AI Threat Intelligence
+
+![AI Threat Intelligence](screenshots/AI_Threat_Intelligence.png)
+
+---
+
+# Future Enhancements
+
+Future improvements may include:
+
+- Real AI/ML fraud detection models
+- Live transaction streaming
+- Behavioral analytics
+- Automated alert prioritization
+- Cloud deployment
+- API integrations
+- Predictive threat intelligence

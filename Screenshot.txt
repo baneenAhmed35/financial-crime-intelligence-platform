@@ -1,0 +1,8 @@
+screenshots/
+│
+├── dashboard-home.png
+├── ai-risk-analysis.png
+├── executive-report.png
+├── geographic-analysis.png
+├── risk-analytics.png
+├── github-repo.png
