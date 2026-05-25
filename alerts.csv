@@ -1,0 +1,11 @@
+alert_id,status,risk_level,transaction_amount,country,investigation_hours,fraud_type
+2001,Created,High,15000,Saudi Arabia,2,Money Laundering
+2002,Under Review,Medium,8000,UAE,5,Account Takeover
+2003,Escalated,High,22000,UK,9,Wire Fraud
+2004,Closed,Low,1200,Saudi Arabia,1,Identity Theft
+2005,Closed,Medium,5400,Bahrain,3,Phishing
+2006,Under Review,High,18500,UAE,6,Money Laundering
+2007,Escalated,High,27000,USA,10,Wire Fraud
+2008,Closed,Medium,4300,Saudi Arabia,2,Phishing
+2009,Created,Low,900,Kuwait,1,Identity Theft
+2010,Closed,High,16000,UAE,4,Money Laundering
