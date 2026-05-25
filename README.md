@@ -79,34 +79,31 @@ The score dynamically evaluates:
 
 ## Main Dashboard
 
-![Main Dashboard](screenshots/dashboard-home.png)
+![Main Dashboard](screenshots/dashboard-home)
 
 ---
 
 ## AI Risk Analysis
 
-![AI Risk Analysis](screenshots/ai-risk-analysis.png)
+![AI Risk Analysis](screenshots/ai-risk-analysis)
 
 ---
 
 ## Executive Investigation Report
 
-![Executive Report](screenshots/executive-investigation-report.png)
+![Executive Report](screenshots/executive-investigation-report)
 
 ---
 
 ## Geographic Risk Analysis
 
-![Geographic Analysis](screenshots/geographic-risk-analysis.png)
+![Geographic Analysis](screenshots/geographic-risk-analysis)
 
 ---
 
 ## AI Threat Intelligence
 
-![AI Threat Intelligence](screenshots/AI_Threat_Intelligence.png)
-
----
-
+![AI Threat Intelligence](screenshots/AI_Threat_Intelligence)
 # Future Enhancements
 
 Future improvements may include:
