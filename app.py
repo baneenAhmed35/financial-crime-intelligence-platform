@@ -61,9 +61,7 @@ st.caption(
 # LOAD DATA
 # =========================
 
-df = pd.read_csv(
-    r"C:\Users\Banee\OneDrive\سطح المكتب\Alert -Analyzer\alerts.csv"
-)
+df = pd.read_csv("alerts.csv")
 
 # =========================
 # SIDEBAR
