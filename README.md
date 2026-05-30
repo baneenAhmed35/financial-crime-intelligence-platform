@@ -2,6 +2,10 @@
 
 AI-powered financial crime detection and investigation platform built using Streamlit, Python, Plotly, and Pandas.
 
+
+## Live Demo 
+Access the live dashboard here:
+https://baneenahmed35-financial-crime-intelligence-platform-app-ashwck.streamlit.app/
 ---
 
 # Platform Overview
